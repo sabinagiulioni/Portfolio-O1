@@ -1,7 +1,7 @@
 Walkthrough for Adventure Text Game
 
-Adventure is a text-based game, in which the player controls a character by typing commands. The character will move to different areas and act according to the commands. Text is displayed after each command describing the character's location and state.
-I completed this project as final assignment for the course Programming 1 (CS-A1110). 
+Adventure is a text-based game, in which the player controls a character by typing commands. The character moves to different areas and acts according to the commands. Text is displayed after each command describing the character's location and state.
+I completed this project as the final assignment for the course Programming 1 (CS-A1110). 
 
 You are in a castle, and your aim is to go enjoy the view from the balcony. To do that, you need to find the key and unlock the door to get to the balcony, so you need to move through the rooms of the castle. To exit one room, you must collect the item stored in the room first. The game ends with your victory once you get to the balcony.
 These are the inputs to win the game directly. 
